@@ -37,8 +37,7 @@ The application is exclusively in portuguese as it was developed for a portugues
 ### Create user
 ![CreateUser](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/CreateUser.PNG)
 
-##Credit
-The developers:
+##The group:
 - [Júlio Pereira](https://github.com/JulioCesar-X)
 - [João Silva](https://github.com/CarDioLogic)
 - [David Fernandez](https://github.com/p1nh4)
