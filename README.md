@@ -19,10 +19,6 @@ This repository contains the final project for UFCD 5425 - Specialist Technician
 - HTML, CSS, tailwind
 - PostgreSQL
 
-### Configuration
-Update the `appsettings.json` file with your database connection string.
-Make sure you have a database in MSSQL server macthing the connection string
-
 ## Usage
 - Login as a basic user to visualize data.
 - Login as a coordinator to visualize data, manage data and goals, create basic users, and send notifications.
@@ -31,8 +27,14 @@ Make sure you have a database in MSSQL server macthing the connection string
 ## Screenshots
 ### Homepage
 ![Homepage](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/Homepage.PNG)
+### Login
+![Login](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/Login.PNG)
 ### Consult data
 ![ConsultData](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/ConsultData.PNG)
+### Insert data
+![InsertData](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/InsertData.PNG)
+### Create user
+![CreateUser](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/CreateUser.PNG)
 
 ##Credit
 
