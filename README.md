@@ -2,6 +2,7 @@
 
 ## Description
 This repository contains the final project for UFCD 5425 - Specialist Technician Course in Information Systems Technologies and Programming at ATEC. The Hospital Benchmark Service Management System is a web application developed with Laravel for the backend and Angular for the frontend. The application was developed with the aim to facilitate the process of inserting, managing and visualizing data related to various hospital indicators.
+The application is exclusively in portuguese as it was developed for a portuguese hospital.
 
 ## Features
 - User authentication
@@ -37,7 +38,8 @@ This repository contains the final project for UFCD 5425 - Specialist Technician
 ![CreateUser](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/CreateUser.PNG)
 
 ##Credit
-
-
-
-
+The developers:
+- [Júlio Pereira](https://github.com/JulioCesar-X)
+- [João Silva](https://github.com/CarDioLogic)
+- [David Fernandez](https://github.com/p1nh4)
+- [Gonçalo Cardoso](https://github.com/Cardoso0329)
