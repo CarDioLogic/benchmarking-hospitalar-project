@@ -30,9 +30,9 @@ Make sure you have a database in MSSQL server macthing the connection string
 
 ## Screenshots
 ### Homepage
-![Homepage Screenshot](SlasherPastaBlog/Screenshots/Homepage.PNG)
-### Stories
-![Stories Screenshot](SlasherPastaBlog/Screenshots/Stories.PNG)
+![Homepage](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/Homepage.PNG)
+### Consult data
+![ConsultData](https://github.com/CarDioLogic/benchmarking-hospitalar-project/blob/main/Screenshots/ConsultData.PNG)
 
 ##Credit
 
